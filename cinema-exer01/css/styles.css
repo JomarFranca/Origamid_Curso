@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+    font-family: Arial, 'Arial Narrow', sans-serif;
+}
+
+h1 {
+    padding: 8px 0px;
+}
+
+h2 {
+    padding: 5px 0px;
+}
+
+h2 a {
+    color: seagreen;
+}
+
+h3 {
+    padding: 4px 0px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hoje {
+    color: darkred;
+}
+
+.amanha {
+    color: darkblue;
+}
